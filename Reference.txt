@@ -1,0 +1,10 @@
+Ubuntu
+https://hub.docker.com/_/ubuntu/
+https://stackoverflow.com/questions/28885137/how-to-run-wget-inside-ubuntu-docker-image
+
+Dropbox Linux
+https://www.dropbox.com/en/help/desktop-web/linux-repository?_locale_specific=en
+https://www.dropbox.com/th_TH/install-linux
+
+Errors
+https://github.com/phusion/baseimage-docker/issues/58
